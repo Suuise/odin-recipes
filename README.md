@@ -1,3 +1,3 @@
 # odin-recipes
 
-<!-- write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)>
+<!--This is a project where I designed a website that has 3 in depth recipes for meals I was interested in. The vanilla pudding recipe is extremely simple to make up for the other long recipes. I plan to revsit this project so it is up to par with my skillset.)>
